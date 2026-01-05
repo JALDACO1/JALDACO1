@@ -14,7 +14,7 @@ A Software Engineering student at the University of Colima, currently in my 5th 
  <br> 
 
 <div align="center"> 
-  <a href="joraldgod@gmail.com"> 
+  <a href="joraldgod27@gmail.com"> 
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" /> 
   </a>  
 </div>
