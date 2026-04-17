@@ -24,7 +24,7 @@ A Software Engineering student at the University of Colima, currently in my 6th 
 
 <p align="center"> 
   <img src="https://skillicons.dev/icons?i=html,css,js,postman,figma" /> 
-<img src="https://skillicons.dev/icons?i=nodejs,react,mysql" /> 
+<img src="https://skillicons.dev/icons?i=nodejs,react,mysql,typescript,supabase" /> 
 
 </p> 
 
